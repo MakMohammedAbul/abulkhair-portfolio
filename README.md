@@ -1,5 +1,5 @@
 # abulkhair-portfolio
-A portfolio showcasing my work in Data Analysis and Data Engineering related projects.
+A portfolio showcasing my work in AI, ML & Data Scientist, Data Analysis related projects.
 
 #👋 Mohammed Abul Khair Data Portfolio
 Welcome! This portfolio showcases my work as a Data Analyst and Data Engineer.
